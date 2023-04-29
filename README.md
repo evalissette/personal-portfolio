@@ -3,10 +3,10 @@
 
 ## Español
 
-*Descripción
-*Objetivo
-*Estructura
-*Tecnologías y atribuciones
+* Descripción
+* Objetivo
+* Estructura
+* Tecnologías y atribuciones
 
 ### Descripción
 
@@ -22,10 +22,10 @@ Mostrar la experiencia y los proyectos realizados presentándolos mediante un si
 
 El portafolio está constituido por cuatro secciones principales:
 
-*Sobre mí
-*Proyectos
-*Otros
-*Contacto
+* Sobre mí
+* Proyectos
+* Otros
+* Contacto
 
 Se planea incluir una sección de Testimonios pronto. 
 
@@ -72,6 +72,8 @@ Se incluyeron **Google Fonts** y **Bootstrap icons** para personalización de fu
 
 
 #### Atribuciones 
+
+Atribuciones con respecto a imágenes de libre uso.
 
 [Autor en Pixabay k_notgeil](https://pixabay.com/es/photos/antecedentes-resumen-patr%c3%b3n-6101097/)
 
