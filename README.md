@@ -55,7 +55,7 @@ Incluye otras áreas en las que me desarrollo profesionalmente.
 
 Despliega mis canales y formas de contacto.
 
-![Sección Contacto](imagenes/readme/screenshot6.png)
+![Sección Contacto](imagenes/readme/screenshot6.PNG)
 
 ### Tecnologías y atribuciones
 
